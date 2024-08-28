@@ -1,4 +1,4 @@
-git# Bab 1
+# Bab 1
 
 ## Memulai
 
